@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="fr-FR">
   <head>
-    <title> Le Resto' </title>
+    <title> Le Resto'-test pour github </title>
     <meta charset="utf-8">
     <meta name="description" content="venez découvrir les <strong>recettes</strong> des <strong>spécialités</strong> 
 	de notre <strong>restaurant</strong> situé en centre ville d'<strong>Orléans</strong>.">
