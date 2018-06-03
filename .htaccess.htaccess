@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^bebetoutbeau.epizy\.com
+RewriteRule (.*) http://www.bebetoutbeau.epizy.com/$1 [R=301,L]
+ErrorDocument 404 http://www.bebetoutbeau.epizy.com/index.php

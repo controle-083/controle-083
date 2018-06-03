@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /mentions.php
+Disallow: /bdd.php
+Sitemap: http://www.controle083.epizy.com/sitemap.xml
